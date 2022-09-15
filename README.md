@@ -1,2 +1,4 @@
 # piedra_papel_o_tijera
-Programación piedra papel o tijera
+Programación  juego piedra papel o tijera
+## DIAGRAMA DE FLUJO
+![Diagrama de flujo](diagrama.png)(Diagrama de flujo)
